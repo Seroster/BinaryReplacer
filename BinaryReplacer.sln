@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryReplacer", "BinaryReplacer\BinaryReplacer.csproj", "{DFF68BA9-DAE2-4550-AD96-46B6240B063D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFF68BA9-DAE2-4550-AD96-46B6240B063D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFF68BA9-DAE2-4550-AD96-46B6240B063D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFF68BA9-DAE2-4550-AD96-46B6240B063D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFF68BA9-DAE2-4550-AD96-46B6240B063D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A5E2727-30D1-472E-9AA0-830B6F7F9870}
+	EndGlobalSection
+EndGlobal
