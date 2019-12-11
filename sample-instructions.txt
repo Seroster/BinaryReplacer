@@ -1,0 +1,3 @@
+find/desert_splintered
+replace/99 75 61/82 66 60
+replace/147 130 100/176 160 114
